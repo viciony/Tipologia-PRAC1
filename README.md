@@ -33,8 +33,7 @@
 * src/WebScraper.py --> Archivo python que contiene los metodos para genera el dataset de la información que queremos extraer
 * src/Objetos.py --> Archivo python donde definimos los objetos que vamos a usar y funciones para tratarlos
 * PremierLeague.csv --> Dataset generado en formato csv
-* PRA1-JFF826.pdf --> Documentación de la práctica, donde es el mismo contenido que el PDF.
-* README.md --> Contiene información sobre la práctica
+* PRA1-JFF826.pdf --> Documentación de la práctica.
 * dependencies.txt --> Librerias necesarias poder ejecutar el web scrapper.
 
 ## Ejecución del Web Scrapper
