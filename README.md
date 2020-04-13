@@ -49,5 +49,5 @@ python src/Main.py [--csv_data]
 
 ## Recursos
 - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-- Laia Subirats Maté, Mireia Calvo González. Web Scrapping. Material de la UOC. PID_00256968.pdf
+- Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC. PID_00256968.pdf
 - Teguayaco Gutiérrez González, Web scrapiing aviation accidents https://github.com/tteguayco/Web-scraping-aviation-accidents
