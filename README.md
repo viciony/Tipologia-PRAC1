@@ -1,6 +1,6 @@
 # Práctica 1: Web scraping
 ## Miembros
-- Joan Miquel Forteza Fuster
+-  La actividad se ha relizado individualmente por Joan Miquel Forteza Fuster
 
 ## Descripción de la práctica
 <p ALIGN="justify">  Esta práctica de l'assignaatura M2-951 - Tipologia y ciclo de vida de los datos del Master universitario de Data Science, corresponde al desarrollo de un Web Scraper con finalidades academicas y de esta manera introducirse y profundizarse un poco en este grandioso mundo. </p>
