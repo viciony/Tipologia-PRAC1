@@ -45,7 +45,7 @@ pip install -r dependencies.txt
 python src/Main.py [--csv_data]
 ```
 
-- El argumento csv_data nos imprimira por consola si ya hemos descargado el archivo para asi evitar tener que hacer una petición solo si existe el fichero, nos mirara si tenemos los datos.
+- El argumento csv_data nos imprimira por consola si ya hemos descargado el archivo para asi evitar tener que hacer otra vez las peticiones solo si existe el fichero, nos mirara si tenemos los datos en ese caso y los imprimirá mostrandonos asi la información sin realizar petición ningúna.
 
 ## Recursos
 - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
