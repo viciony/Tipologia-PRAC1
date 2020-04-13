@@ -51,3 +51,6 @@ python src/Main.py [--csv_data]
 - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC. PID_00256968.pdf
 - Teguayaco Gutiérrez González, Web scrapiing aviation accidents https://github.com/tteguayco/Web-scraping-aviation-accidents
+
+## Licencia
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
