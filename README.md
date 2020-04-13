@@ -5,7 +5,7 @@
 ## Descripción de la práctica
 <p ALIGN="justify">  Esta práctica de l'assignaatura M2-951 - Tipologia y ciclo de vida de los datos del Master universitario de Data Science, corresponde al desarrollo de un Web Scraper con finalidades academicas y de esta manera introducirse y profundizarse un poco en este grandioso mundo. </p>
 
-<p ALIGN="justify"> Para la realización de nuestro Web Scrapper se ha elegido la página de http://www.resultados-futbol.com donde en esta página se recogen los resultados de los partidos de futbol de todas las ligas del mundo y es una página donde recoger un buen ejemplo de datos, en nuestro caso recogeremos los datos de la Premiere League. </p>
+<p ALIGN="justify"> Para la realización de nuestro Web Scrapper se ha elegido la página de http://www.resultados-futbol.com donde en esta página se recogen los resultados de los partidos de futbol de todas las ligas del mundo y es una página donde recoger un buen ejemplo de datos, en nuestro caso recogeremos los datos de la Premier League, a modo de ejemplo pero serviria para cualquier liga modificando la url de obtencion de datos y el nombre del fichero CSV de nuestro dataset. </p>
 
 ## Estructura de la práctica
 ### Estructura
