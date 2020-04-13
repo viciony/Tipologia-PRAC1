@@ -118,7 +118,7 @@ def obtener_informacion():
     directorio_logos()
     for i in range(AñoInicio, AñoFin):
         print("Temporada", str(i-1) + "/"+ str(i))
-        LigaAtr = Liga(i, Obtener_jornadas(i))
+        LigaAtr = Liga(str(i-1) + "/"+ str(i), Obtener_jornadas(i))
         TemporadaLiga_csv(LigaAtr)
         time.sleep(10)
 
